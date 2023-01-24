@@ -1,0 +1,12 @@
+.active{
+    display: none;
+}
+
+.text-purple{
+    color: #9a4eff;
+}
+
+.btn-blue{
+    background-color: #66bbff;
+    color: white;
+}
